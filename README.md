@@ -1,12 +1,3 @@
-<!-- Delete the chunk from here... -->
-
-> [!IMPORTANT]
-> Please visit our [**Wiki**](https://github.com/biodiversitydata/quarto-template/wiki) to learn more about this Template.
-
-<!-- ... to here -->
-
-
-
 <!-- Logo & Title -->
 
 <h1 align="center">
@@ -24,7 +15,7 @@
 
 <br>
 <p align="center">
-  <a href="https://biodiversitydata.github.io/quarto-template" target="_blank"><b>View presentation</b></a>
+  <a href="https://biodiversitydata.github.io/data-paper" target="_blank"><b>View presentation</b></a>
 </p>
 <br>
 

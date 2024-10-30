@@ -16,13 +16,13 @@
 ::: { .column .center width="33%"}
 {{< fa code size=2x >}}
 <br>
-Section 1
+Context and issues
 :::
 
 ::: { .column .center width="33%"}
 {{< fa brands github size=2x >}}
 <br>
-Section 2
+What is a data paper
 :::
 
 ::: { .column .center width="33%"}

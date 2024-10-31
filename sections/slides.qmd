@@ -183,13 +183,12 @@
 
 ::: {.column .center width=50%}
 
-![](images/image-data-paper-herbier-mnhn.jpg){width=100%}
-
+![](images/image-data-paper-herbier-mnhn.jpg){width=80%}
 :::
 
 ::::
 
-*Definition : A data paper is a scientific **publication that precisely describes a data set**, and informs the scientific community of its existence, its methods and its potential for reuse* [^8]
+A data paper is a scientific **publication that precisely describes a data set**, and informs the scientific community of its existence, its methods and its potential for reuse[^8]
 
 [^8]: [IRD](https://data.ird.fr/datapapers/)
 
@@ -197,41 +196,132 @@
 
 ## data paper : Description
 
-A scientific publication whose primary purpose is to describe a data set or group of data sets, rather than to report a research investigation.
+*A scientific publication whose primary purpose is to describe a data set or group of data sets, rather than to report a research investigation.*
 
 :::: {.columns}
 
-::: {.column width=60%}
+::: {.column width=50%}
 
 - **DOI: indexing and citation** : *Data Papers are indexed by Web of Knowledge (ISI), PubMedCentral, Scopus, Zoological Record, Google Scholar, CAB Abstracts, Directory of Open Access Journal (DOAJ), EBSCO.*
-- **Title** : *Promote and publicize data*
-- **Authors**: *Acknowledgement and credit for data publishers via scientific publication*
-- **Abstract**: *describes data in a structured, human-readable form*
+<br>
+<br>
+- **Title** : *Promotion and publicizing data*
+<br>
+<br>
+- **Authors**: *Acknowledgement and credit for data publishers through scientific publication*
+<br>
+<br>
+- **Abstract**: *description of data in a structured, human-readable form*
+<br>
+<br>
+- **Other sections** : *material and methods, taxonomic coverage, geographic coverage, descriptive statistics, ...*
 
 :::
 
-::: {.column width=40%}
+::: {.column width=50%}
 
-![](images/image-data-paper-bioblitz.jpg){width=80%}
+![](images/image-data-paper-bioblitz.jpg){width=70%}
 
 :::
 
 ::::
 
-<!-- page XXX -->
+<!-- page 9 -->
 
 ## data paper : Description
 
-![](images/image-data-paper-ipt.png){width=60%}
-The Integrated Publishing Toolkit (IPT) facilitates the filling of metadata and the automated production of a Data Paper manuscript.
+:::: {.columns}
 
+::: {.column width=33%}
+**data paper from Research**
+![](images/image-data-paper-herbier-mnhn.jpg){width=100%}
+[Le Bras *et al.*, 2017](https://doi.org/10.1038/sdata.2017.16)
+
+:::
+
+::: {.column width=33%}
+**data paper from Policies**
+![](images/image-data-paper-znieff.jpg){width=100%}
+[Lepareur *et al.*, 2022](https://doi.org/10.3897/BDJ.10.e71222)
+
+:::
+
+::: {.column width=33%}
+**data paper from citizen sciences**
+![](images/image-data-paper-kakila.jpg){width=100%}
+[Coché *et al.*, 2021](https://doi.org/10.3897/BDJ.9.e69022)
+
+:::
+
+:::
+
+<!-- page XX -->
+
+## data paper : Description
+
+> Adding statistical analyses or graphical representations is possible (and recommanded)
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+![](images/image-data-paper-spider.jpg){width=80%}
+
+[Migeon, 2015](https://doi.org/10.3897/zookeys.489.9292)
+
+:::
+
+::: {.column width=50%}
+
+![](images/image-data-paper-spider-map.jpg){width=70%}
+![](images/image-data-paper-spider-stats.jpg){width=70%}
+:::
+
+:::: 
+<!-- page XX -->
+
+## data paper : Description
+
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+<br>
+The **Integrated Publishing Toolkit** ([IPT](https://www.gbif.org/fr/ipt)) developed by the GBIF:
+<br>
+<br>
+- is a **free open-source software** and used by organizations around the world to create and manage repositories for sharing biodiversity datasets.
+<br>
+<br>
+- facilitates the **filling of metadata** and the automated production of a Data Paper manuscript.
+
+:::
+
+::: {.column width=50%}
+
+![](images/image-data-paper-ipt.png){width=150%}
+
+:::
+
+::::
+
+![](images/image-ipt-gbif-world.jpg){width=60% fig-align='center'}
 
 <!-- page XXX -->
 
-## data paper : Description
+## Data paper : description 
+
+> **back to the standardization** 
+
+![](images/image-Datastandardization.png){width=80% fig-align='center'}
+
+<!-- page XXX -->
+
+## data paper : description
 ![](images/image-data-paper-eml.png){width=100%}
 
-
+<!-- page XXX -->
 
 # Data paper : process
 
@@ -241,7 +331,7 @@ The Integrated Publishing Toolkit (IPT) facilitates the filling of metadata and 
 
 :::: {.columns}
 
-::: {.column width=70%}
+::: {.column width=60%}
 
 - Open data (CC-BY 4.0 compatible with Etalab)
 - Mandatory license
@@ -259,9 +349,10 @@ The Integrated Publishing Toolkit (IPT) facilitates the filling of metadata and 
 - Semantic annotation (Keywords and attribute names, unlimited usable resources)
 :::
 
-::: {.column width=30%}
-
-![](images/image-FAIR.png){width=60%}
+::: {.column width=40%}
+![](images/image-FAIR.png){width=80%}
+![](images/image-logo-pndb.jpg){width=60%}
+![](images/image-logo-ouvrir-la-science.png){width=80%}
 :::
 
 ::::
@@ -269,11 +360,90 @@ The Integrated Publishing Toolkit (IPT) facilitates the filling of metadata and 
 
 ## Data paper : process
 
-Pipeline to 1) describe and 2) publish a data paper
+Pipeline to describe and to publish a data paper
 
 ![](images/image-data-paper-process.png){width=100%}
-# Data papers  : resources
+<!-- page XXX -->
+
+# Data papers : resources
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+**Data Share**
+
+*by the CEntre for the Synthesis and Analysis of Biodiversity (CESAB) - French Foundation for Biodiversity Research (FRB).*
+
+>The aim of this call is to accelerate the sharing of open-access and large scale ‘novel’ biodiversity related datasets.
+
+![](images/image-datashare.jpg){width=60%}
+
+{{< fa circle-right >}} &nbsp;For more information: [Data Share](https://www.fondationbiodiversite.fr/en/calls/call-for-proposals-datashare-2023/)
+
+:::
+
+::: {.column width=50%}
+
+**OpenMetaPaper**
+
+*by the French Biodiversity data hub (PNBD - Data Terra) and the French nodal point of the GBIF*
+
+>The aims are to increase the opening of research data around the use of the EML standard and its links with other data and metadata standards in ecology
+
+![](images/image-logo-openmetapaper.png){width=50%}
+
+{{< fa circle-right >}} &nbsp;For more information: [OpenMetaPaper](https://www.pndb.fr/fr/activites/projets-techniques-et-scientifiques/openmetapaper)
+
+:::
+
+::::
+
+*Support and training by th best teams ever ;)*
+
+<!-- page XXX -->
 
 ## Data paper : resources
 
-**coming soon**
+![](images/image-data-paper-gbif.jpg){width=40%}
+
+listing of journals accepting data paper on [GBIF.org](https://www.gbif.org/data-papers)
+
+<!-- page XXX -->
+
+## Data paper : resources
+
+![](images/image-data-paper-dafnee-isem.jpg){width=100%}
+
+Ecological journals with “ethical” aspects on [Dafnee ISEM](https://dafnee.isem-evolution.fr/) 
+
+<!-- page XXX -->
+
+## Data paper : resources
+
+:::: {.columns}
+
+::: {.column width=30%}
+
+- [Data Share](https://www.fondationbiodiversite.fr/en/calls/call-for-proposals-datashare-2023/)
+- [OpenMetaPaper project](https://www.pndb.fr/fr/activites/projets-techniques-et-scientifiques/openmetapaper)
+- [PNDB](https://www.pndb.fr/fr/outils-services/outils-services-par-etapes/partage#Data%20Paper)
+- [GBIF.org](https://www.gbif.org/data-papers) & [GBIF.fr](http://www.gbif.fr/page/ressources/data-papers)
+- [Pensoft guidelines](https://pensoft.net/J_FILES/Pensoft_Data_Publishing_Policies_and_Guidelines.pdf)
+- [IRD](https://data.ird.fr/datapapers/)
+- [CIRAD](https://coop-ist.cirad.fr/gerer-des-donnees/publier-un-data-paper/1-qu-est-ce-qu-un-data-paper)
+- [DoRaNum](https://doranum.fr/data-paper-data-journal/data-papers-et-data-journals-fiche-synthetique_10_13143_2wcb-fw52/)
+- [Dafnee ISEM](https://dafnee.isem-evolution.fr/)
+
+:::
+
+::: {.column width=70%}
+
+![](images/image-datasharing.jpg){width=100%}
+:::
+
+::::
+
+
+
+

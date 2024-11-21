@@ -15,7 +15,7 @@ Biodiversity data: data paper
 :::
 
 ::: {.subtitle}
-Describe and share you {meta}data
+Describe and share your {meta}data
 :::
 
 ::: {.date}

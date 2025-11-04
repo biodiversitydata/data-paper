@@ -297,9 +297,9 @@ Ecological journals with “ethical” aspects on [Dafnee ISEM](https://dafnee.i
 
 ::: {.column width=30%}
 
-- [Data Share](https://www.fondationbiodiversite.fr/en/calls/call-for-proposals-datashare-2023/)
-- [OpenMetaPaper project](https://www.pndb.fr/fr/activites/projets-techniques-et-scientifiques/openmetapaper)
-- [PNDB](https://www.pndb.fr/fr/outils-services/outils-services-par-etapes/partage#Data%20Paper)
+- [Data Share](https://www.fondationbiodiversite.fr/en/calls/call-for-proposals-datashare-2025/)
+- [OpenMetaPaper project](https://www.ouvrirlascience.fr/submit-your-data-its-published/)
+- [PNDB](https://www.pndb.fr/explore/?search=data+papers)
 - [GBIF.org](https://www.gbif.org/data-papers) & [GBIF.fr](http://www.gbif.fr/page/ressources/data-papers)
 - [Pensoft guidelines](https://pensoft.net/J_FILES/Pensoft_Data_Publishing_Policies_and_Guidelines.pdf)
 - [IRD](https://data.ird.fr/datapapers/)

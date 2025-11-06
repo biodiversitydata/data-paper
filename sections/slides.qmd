@@ -251,7 +251,7 @@ Pipeline to describe and to publish a data paper
 
 ![](images/image-datashare.jpg){width=60%}
 
-{{< fa circle-right >}} &nbsp;For more information: [Data Share](https://www.fondationbiodiversite.fr/en/calls/call-for-proposals-datashare-2023/)
+{{< fa circle-right >}} &nbsp;For more information: [Data Share](https://www.fondationbiodiversite.fr/appel/appel-a-projets-ideashare-datashare-2025/)
 
 :::
 

@@ -304,9 +304,10 @@ Ecological journals with “ethical” aspects on [Dafnee ISEM](https://dafnee.i
 - [Pensoft guidelines](https://pensoft.net/J_FILES/Pensoft_Data_Publishing_Policies_and_Guidelines.pdf)
 - [IRD](https://data.ird.fr/datapapers/)
 - [CIRAD](https://coop-ist.cirad.fr/gerer-des-donnees/publier-un-data-paper/1-qu-est-ce-qu-un-data-paper)
-- [DoRaNum](https://doranum.fr/data-paper-data-journal/data-papers-et-data-journals-fiche-synthetique_10_13143_2wcb-fw52/)
+- [DoRaNum](https://doranum.fr/data-paper-data-journal/)
 - [Dafnee ISEM](https://dafnee.isem-evolution.fr/)
-- [Recherche Data Gouv - draft data paper via INRAE](https://recherche.data.gouv.fr/fr/categorie/9/guide/generer-une-ebauche-de-data-paper)
+- [Recherche Data Gouv - draft data paper draft](https://recherche.data.gouv.fr/fr/actualite/creez-une-ebauche-de-data-paper-en-quelques-clics)
+- [EOSC - Pillar project](https://www.eosc-pillar.eu/news/data-paper-new-video-series-co-produced-eosc-pillar)
 
 :::
 

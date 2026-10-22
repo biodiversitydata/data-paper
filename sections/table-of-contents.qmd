@@ -14,26 +14,26 @@
 :::: { .columns }
 
 ::: { .column .center width="25%"}
-{{< fa code size=2x >}}
-<br>
+{{< fa right-to-bracket size=2x >}}
+<br><br>
 Context and issues
 :::
 
 ::: { .column .center width="25%"}
-{{< fa brands github size=2x >}}
-<br>
+{{< fa file-lines size=2x >}}
+<br><br>
 Description
 :::
 
 ::: { .column .center width="25%"}
-{{< fa book size=2x >}}
-<br>
+{{< fa arrows-spin size=2x >}}
+<br><br>
 Process
 :::
 
 ::: { .column .center width="25%"}
 {{< fa book size=2x >}}
-<br>
+<br><br>
 Resources
 :::
 

@@ -4,9 +4,9 @@
   <br>
   <img src="images/readme/logo-readme.png" alt="Logo" width="200">
   <br>
-  Quarto template
+  Data paper
   <br>
-  HTML presentation w/ RevealJS
+  Describe and share your {meta}data
   <br>
 </h1>
 
@@ -37,13 +37,13 @@
   <br/>
   
   <!-- Quarto render -->
-  <a href="https://github.com/biodiversitydata/quarto-template/actions/workflows/quarto-render.yml">
-    <img src="https://github.com/biodiversitydata/quarto-template/actions/workflows/quarto-render.yml/badge.svg" alt="GHA render">
+  <a href="https://github.com/biodiversitydata/data-paper/actions/workflows/quarto-render.yml">
+    <img src="https://github.com/biodiversitydata/data-paper/actions/workflows/quarto-render.yml/badge.svg" alt="GHA render">
   </a>
   
   <!-- GitHub deployment -->
-  <a href="https://github.com/biodiversitydata/quarto-template/actions/workflows/pages/pages-build-deployment">
-    <img src="https://github.com/biodiversitydata/quarto-template/actions/workflows/pages/pages-build-deployment/badge.svg" alt="GHA deploy">
+  <a href="https://github.com/biodiversitydata/data-paper/actions/workflows/pages/pages-build-deployment">
+    <img src="https://github.com/biodiversitydata/data-paper/actions/workflows/pages/pages-build-deployment/badge.svg" alt="GHA deploy">
   </a>
 </p>
 
@@ -63,7 +63,7 @@
 
 ## Overview
 
-This repository contains files used to generate the online presentation [Quarto template](https://biodiversitydata.github.io/quarto-template) based on [Quarto](https://quarto.org/) and the [RevealJS](https://quarto.org/docs/presentations/revealjs/) framework.
+This repository contains files used to generate the online presentation [Data paper](https://biodiversitydata.github.io/data-paper) based on [Quarto](https://quarto.org/) and the [RevealJS](https://quarto.org/docs/presentations/revealjs/) framework.
 
 
 ## Usage
@@ -82,14 +82,14 @@ To understand the file organisation of this repository, please read this [Wiki](
 
 ## Citation
 
-Casajus N (2024) _A Quarto template for HTML presentation with RevealJS framework_. Online presentation available at <https://github.com/biodiversitydata/quarto-template/>.
+Norvez O & Pamerlon S (2026) _Data paper: Describe and share your {meta}data_. Online presentation available at <https://github.com/biodiversitydata/data-paper/>.
 
 
 ## Contributing
 
-All types of contributions are encouraged and valued. For more information, check out our [Contributor Guidelines](https://github.com/biodiversitydata/quarto-template/blob/main/CONTRIBUTING.md).
+All types of contributions are encouraged and valued. For more information, check out our [Contributor Guidelines](https://github.com/biodiversitydata/data-paper/blob/main/CONTRIBUTING.md).
 
-Please note that the `quarto-template` project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
+Please note that the `data-paper` project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
 
 
 ## Acknowledgments

@@ -1,12 +1,12 @@
-# Data paper : reminder of the context and the issues
+# Context and issues
 
 <!-- page X -->
 
-## Data paper : reminder of the context and the issues
+## Context and issues
 
 - **Heterogeneity** (data types, origin, standards) & **diversity** of "objects" to be linked together[^2]
 - **Loss of information** over time[^3]
-- Toward a better **open science** and **reproducibility** [^4] [^5]
+- Toward a better **open science** and **reproducibility** [^4]^,^ [^5]
 
 :::: {.columns}
 
@@ -39,11 +39,11 @@
 
 <!-- page X -->
 
-# Data paper description
+# Description
 
 <!-- page X -->
 
-## data paper : Description
+## Description
 
 :::: {.columns}
 
@@ -66,33 +66,35 @@ A data paper is a scientific **publication that precisely describes a data set**
 
 <!-- page 8 -->
 
-## data paper : Description
+## Sections
 
-*A scientific publication whose primary purpose is to describe a data set or group of data sets, rather than to report a research investigation.*
+A scientific publication whose primary purpose is to describe a data set or group of data sets, rather than to report a research investigation.
 
 :::: {.columns}
 
 ::: {.column width=50%}
+<br>
 
-- **DOI: indexing and citation** : *Data Papers are indexed by Web of Knowledge (ISI), PubMedCentral, Scopus, Zoological Record, Google Scholar, CAB Abstracts, Directory of Open Access Journal (DOAJ), EBSCO.*
+- **DOI**: for indexing and citation. Data Papers are indexed by Web of Science, 
+PubMedCentral, Scopus, Google Scholar, Directory of Open Access Journal (DOAJ), etc..
 <br>
 <br>
-- **Title** : *Promotion and publicizing data*
+- **Title**: promotion and publicizing data
 <br>
 <br>
-- **Authors**: *Acknowledgement and credit for data publishers through scientific publication*
+- **Authors**: acknowledgement and credit for data publishers through scientific publication
 <br>
 <br>
-- **Abstract**: *description of data in a structured, human-readable form*
+- **Abstract**: description of data in a structured, human-readable form
 <br>
 <br>
-- **Other sections** : *material and methods, taxonomic coverage, geographic coverage, descriptive statistics, ...*
+- **Other sections** : material and methods, taxonomic coverage, geographic coverage, descriptive statistics, etc.
 
 :::
 
 ::: {.column width=50%}
 
-![](images/image-data-paper-bioblitz.jpg){width=70%}
+![](images/image-data-paper-bioblitz.jpg){width=70% fig-align="right"}
 
 :::
 
@@ -100,38 +102,46 @@ A data paper is a scientific **publication that precisely describes a data set**
 
 <!-- page 9 -->
 
-## data paper : Description
+## Fields
+
+<br>
 
 :::: {.columns}
 
-::: {.column width=33%}
-**data paper from Research**
-![](images/image-data-paper-herbier-mnhn.jpg){width=100%}
-[Le Bras *et al.*, 2017](https://doi.org/10.1038/sdata.2017.16)
+::: {.column .center width=33%}
+**Research**
+![](images/image-data-paper-herbier-mnhn.jpg){width=90%}
 
+::: {.citation}
+[Le Bras *et al.* (2017)](https://doi.org/10.1038/sdata.2017.16)
+:::
 :::
 
-::: {.column width=33%}
-**data paper from Policies**
-![](images/image-data-paper-znieff.jpg){width=100%}
-[Lepareur *et al.*, 2022](https://doi.org/10.3897/BDJ.10.e71222)
+::: {.column .center width=33%}
+**Policies**
+![](images/image-data-paper-znieff.jpg){width=90%}
 
+::: {.citation}
+[Lepareur *et al.* (2022)](https://doi.org/10.3897/BDJ.10.e71222)
+:::
 :::
 
-::: {.column width=33%}
-**data paper from citizen sciences**
-![](images/image-data-paper-kakila.jpg){width=100%}
-[Coché *et al.*, 2021](https://doi.org/10.3897/BDJ.9.e69022)
+::: {.column .center width=33%}
+**Citizen science**
+![](images/image-data-paper-kakila.jpg){width=90%}
 
+::: {.citation}
+[Coché *et al.* (2021)](https://doi.org/10.3897/BDJ.9.e69022)
+:::
 :::
 
 :::
 
 <!-- page XX -->
 
-## data paper : Description
+## Statistics and figures
 
-> Adding statistical analyses or graphical representations is possible (and recommanded)
+Adding statistical analyses or graphical representations is possible and **recommanded**
 
 :::: {.columns}
 
@@ -139,20 +149,22 @@ A data paper is a scientific **publication that precisely describes a data set**
 
 ![](images/image-data-paper-spider.jpg){width=80%}
 
-[Migeon, 2015](https://doi.org/10.3897/zookeys.489.9292)
-
+::: {.citation}
+[Migeon (2015)](https://doi.org/10.3897/zookeys.489.9292)
+:::
 :::
 
 ::: {.column width=50%}
 
-![](images/image-data-paper-spider-map.jpg){width=70%}
-![](images/image-data-paper-spider-stats.jpg){width=70%}
+![](images/image-data-paper-spider-map.jpg){width=70% fig-align="right"}
+
+![](images/image-data-paper-spider-stats.jpg){width=70% fig-align="right"}
 :::
 
 :::: 
 <!-- page XX -->
 
-## data paper : Description
+## Integrated Publishing Toolkit - IPT
 
 
 :::: {.columns}
@@ -160,19 +172,20 @@ A data paper is a scientific **publication that precisely describes a data set**
 ::: {.column width=50%}
 
 <br>
-The **Integrated Publishing Toolkit** ([IPT](https://www.gbif.org/fr/ipt)) developed by the GBIF:
+The [IPT](https://www.gbif.org/fr/ipt), developed by the GBIF:
 <br>
-<br>
-- is a **free open-source software** and used by organizations around the world to create and manage repositories for sharing biodiversity datasets.
-<br>
-<br>
-- facilitates the **filling of metadata** and the automated production of a Data Paper manuscript.
+
+- is a **free open-source software**
+
+- is used by organizations around the world to create and manage repositories for sharing biodiversity datasets
+
+- facilitates the **filling of metadata** and the automated production of a Data Paper
 
 :::
 
 ::: {.column width=50%}
 
-![](images/image-data-paper-ipt.png){width=150%}
+![](images/image-data-paper-ipt.png){width=80% fig-align='right'}
 
 :::
 
@@ -182,28 +195,28 @@ The **Integrated Publishing Toolkit** ([IPT](https://www.gbif.org/fr/ipt)) devel
 
 <!-- page XXX -->
 
-## Data paper : description 
+## Standardization 
 
-> **back to the standardization** 
+<br>
 
-![](images/image-Datastandardization.png){width=80% fig-align='center'}
-
-<!-- page XXX -->
-
-## data paper : description
-![](images/image-data-paper-eml.png){width=100%}
+![](images/image-Datastandardization.png){width=70% fig-align='center'}
 
 <!-- page XXX -->
 
-# Data paper : process
+## Standardization
 
-## Data paper : process
 
-**good Level of FAIRness**
+![](images/image-data-paper-eml.png){width=80% fig-align='center'}
+
+<!-- page XXX -->
+
+# Process
+
+## A good level of FAIRness
 
 :::: {.columns}
 
-::: {.column width=60%}
+::: {.column width=50%}
 
 - Open data (CC-BY 4.0 compatible with Etalab)
 - Mandatory license
@@ -221,77 +234,94 @@ The **Integrated Publishing Toolkit** ([IPT](https://www.gbif.org/fr/ipt)) devel
 - Semantic annotation (Keywords and attribute names, unlimited usable resources)
 :::
 
+::: {.column width=10%}
+:::
+
 ::: {.column width=40%}
-![](images/image-FAIR.png){width=80%}
-![](images/image-logo-pndb.jpg){width=60%}
-![](images/image-logo-ouvrir-la-science.png){width=80%}
+![](images/image-FAIR.png){width=80% fig-align='center'}
+
+![](images/image-logo-pndb.jpg){width=60% fig-align='center'}
+
+![](images/image-logo-ouvrir-la-science.png){width=80% fig-align='center'}
 :::
 
 ::::
 <!-- page XXX -->
 
-## Data paper : process
+## Pipeline
 
-Pipeline to describe and to publish a data paper
+![](images/image-data-paper-process.png){width=80% fig-align='center'}
 
-![](images/image-data-paper-process.png){width=100%}
 <!-- page XXX -->
 
-# Data papers : resources
+# Resources
+
+## Resources
 
 :::: {.columns}
 
 ::: {.column width=50%}
 
-**Data Share**
+**DataSHARE** &nbsp;[{{< fa arrow-up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/appel/appel-a-projets-ideashare-datashare-2025/)
 
 *by the CEntre for the Synthesis and Analysis of Biodiversity (CESAB) - French Foundation for Biodiversity Research (FRB).*
 
->The aim of this call is to accelerate the sharing of open-access and large scale ‘novel’ biodiversity related datasets.
+> Accelerate the sharing of open-access and large scale ‘novel’ biodiversity related datasets.
 
-![](images/image-datashare.jpg){width=60%}
+<br>
 
-{{< fa circle-right >}} &nbsp;For more information: [Data Share](https://www.fondationbiodiversite.fr/appel/appel-a-projets-ideashare-datashare-2025/)
+![](images/image-datashare.jpg){width=60% fig-align='center'}
 
 :::
 
 ::: {.column width=50%}
 
-**OpenMetaPaper**
+**OpenMetaPaper** &nbsp;[{{< fa arrow-up-right-from-square size=xs >}}](https://www.ouvrirlascience.fr/submit-your-data-its-published/)
 
 *by the French Biodiversity data hub (PNBD - Data Terra) and the French nodal point of the GBIF*
 
->The aims are to increase the opening of research data around the use of the EML standard and its links with other data and metadata standards in ecology
+> Increase the opening of research data around the use of the EML standard and its links with other data and metadata standards in ecology
 
-![](images/image-logo-openmetapaper.png){width=50%}
-
-{{< fa circle-right >}} &nbsp;For more information: [OpenMetaPaper](https://www.ouvrirlascience.fr/submit-your-data-its-published/)
+![](images/image-logo-openmetapaper.png){width=50% fig-align='center'}
 
 :::
 
 ::::
 
-*Support and training by th best teams ever ;)*
 
 <!-- page XXX -->
 
-## Data paper : resources
+## List of journals
 
-![](images/image-data-paper-gbif.jpg){width=40%}
+:::: {.columns}
 
-listing of journals accepting data paper on [GBIF.org](https://www.gbif.org/data-papers)
+::: {.column width=60%}
+![](images/image-data-paper-gbif.jpg){width=70%}
+:::
+
+::: {.column width=40%}
+<br><br><br><br><br><br><br><br>
+
+::: {.citation}
+{{< fa circle-right >}}&nbsp; List of journals accepting data paper: [GBIF.org](https://www.gbif.org/data-papers)
+:::
+:::
+
+::::
 
 <!-- page XXX -->
 
-## Data paper : resources
+## DAFNEE database
 
-![](images/image-data-paper-dafnee-isem.jpg){width=100%}
+![](images/image-data-paper-dafnee-isem.jpg){width=90% fig-align='center'}
 
-Ecological journals with “ethical” aspects on [Dafnee ISEM](https://dafnee.isem-evolution.fr/) & PrePrint [Galtier _et al.,- 2025](https://doi.org/10.32942/X24933)
+- Website: <https://dafnee.isem-evolution.fr/>
+
+- Paper: [Galtier _et al._ (2026)](https://academic.oup.com/jeb/article/39/2/190/8325101)
 
 <!-- page XXX -->
 
-## Data paper : resources
+## Resources
 
 :::: {.columns}
 
@@ -311,7 +341,10 @@ Ecological journals with “ethical” aspects on [Dafnee ISEM](https://dafnee.i
 
 :::
 
-::: {.column width=70%}
+::: {.column width=10%}
+:::
+
+::: {.column width=60%}
 
 ![](images/image-datasharing.jpg){width=100%}
 :::

@@ -49,18 +49,19 @@
 
 ::: {.column width=50%}
 
-![](images/image_DataMetadata.png){width=100%}
+![](images/image_DataMetadata.png){width=80%}
+
+> A data paper is a scientific **publication that precisely describes a data set**, and informs the scientific community of its existence, its methods and its potential for reuse[^8]
 
 :::
 
 ::: {.column .center width=50%}
 
-![](images/image-data-paper-herbier-mnhn.jpg){width=80%}
+![[Garnier _et al._ (2025)](https://doi.org/10.1002/ecy.70219)](images/image-data-paper-garnier.png){width=70%}
+
 :::
 
 ::::
-
-A data paper is a scientific **publication that precisely describes a data set**, and informs the scientific community of its existence, its methods and its potential for reuse[^8]
 
 [^8]: [IRD](https://data.ird.fr/datapapers/)
 
@@ -118,7 +119,7 @@ PubMedCentral, Scopus, Google Scholar, Directory of Open Access Journal (DOAJ), 
 :::
 
 ::: {.column .center width=33%}
-**Policies**
+**Public Policies**
 ![](images/image-data-paper-znieff.jpg){width=90%}
 
 ::: {.citation}
@@ -197,9 +198,9 @@ The [IPT](https://www.gbif.org/fr/ipt), developed by the GBIF:
 
 ## Standardization 
 
-<br>
+![](images/image-Datastandardization.png){width=60% fig-align='center'}
 
-![](images/image-Datastandardization.png){width=70% fig-align='center'}
+{{< fa circle-right >}} &nbsp;For more information: [Jones _et al_ (2006)](https://doi.org/10.1146/annurev.ecolsys.37.091305.110031) and [GBIF](https://www.gbif.org/darwin-core)
 
 <!-- page XXX -->
 

@@ -296,13 +296,12 @@ The [IPT](https://www.gbif.org/fr/ipt), developed by the GBIF:
 ::: {.column width=30%}
 
 - [Data Share](https://www.fondationbiodiversite.fr/en/calls/call-for-proposals-datashare-2025/)
-- [OpenMetaPaper project](https://www.ouvrirlascience.fr/submit-your-data-its-published/)
 - [PNDB](https://www.pndb.fr/explore/?search=data+papers)
 - [GBIF.org](https://www.gbif.org/data-papers) & [GBIF.fr](http://www.gbif.fr/page/ressources/data-papers)
 - [Pensoft guidelines](https://pensoft.net/J_FILES/Pensoft_Data_Publishing_Policies_and_Guidelines.pdf)
 - [IRD](https://data.ird.fr/datapapers/)
 - [CIRAD](https://coop-ist.cirad.fr/gerer-des-donnees/publier-un-data-paper/1-qu-est-ce-qu-un-data-paper)
-- [DoRaNum](https://doranum.fr/data-paper-data-journal/)
+- [DORANum](https://doranum.fr/data-paper-data-journal/)
 - [Dafnee ISEM](https://dafnee.isem-evolution.fr/)
 - [Recherche Data Gouv - draft data paper draft](https://recherche.data.gouv.fr/fr/actualite/creez-une-ebauche-de-data-paper-en-quelques-clics)
 - [EOSC - Pillar project](https://www.eosc-pillar.eu/news/data-paper-new-video-series-co-produced-eosc-pillar)

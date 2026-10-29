@@ -23,7 +23,7 @@
 
 ::: {.column .center width=33%}
 
-![](images/image-FAIR.png){width=100%}
+![](images/image-FAIR_CARE.png){width=100%}
 ![](images/image-datalifecycle.png){width=100%}
 
 :::
@@ -255,39 +255,6 @@ The [IPT](https://www.gbif.org/fr/ipt), developed by the GBIF:
 <!-- page XXX -->
 
 # Resources
-
-## Resources
-
-:::: {.columns}
-
-::: {.column width=50%}
-
-**DataSHARE** &nbsp;[{{< fa arrow-up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/appel/appel-a-projets-ideashare-datashare-2025/)
-
-*by the CEntre for the Synthesis and Analysis of Biodiversity (CESAB) - French Foundation for Biodiversity Research (FRB).*
-
-> Accelerate the sharing of open-access and large scale ‘novel’ biodiversity related datasets.
-
-<br>
-
-![](images/image-datashare.jpg){width=60% fig-align='center'}
-
-:::
-
-::: {.column width=50%}
-
-**OpenMetaPaper** &nbsp;[{{< fa arrow-up-right-from-square size=xs >}}](https://www.ouvrirlascience.fr/submit-your-data-its-published/)
-
-*by the French Biodiversity data hub (PNBD - Data Terra) and the French nodal point of the GBIF*
-
-> Increase the opening of research data around the use of the EML standard and its links with other data and metadata standards in ecology
-
-![](images/image-logo-openmetapaper.png){width=50% fig-align='center'}
-
-:::
-
-::::
-
 
 <!-- page XXX -->
 
